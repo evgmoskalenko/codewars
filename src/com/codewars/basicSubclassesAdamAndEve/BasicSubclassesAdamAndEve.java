@@ -1,7 +1,7 @@
 package com.codewars.basicSubclassesAdamAndEve;
 
 /**
- * http://www.codewars.com/kata/52ffcfa4aff455b3c2000750/train/java
+ * http://www.codewars.com/kata/basic-subclasses-adam-and-eve
  */
 public class BasicSubclassesAdamAndEve {
 
